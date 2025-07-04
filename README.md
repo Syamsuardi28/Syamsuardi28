@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWtidWhvNDY3M2o4andteXRoZWo3MjA0aTJlOWp2b2pyNXVqbWJ3NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUPGGDNsLvqsBOhuU0/giphy.gif)
 
 
-![](https://skillicons.dev/icons?i=discord,figma,gmail,linkedin,vscode,notion,postgres,twitter)
+![https://discord.com/channels/@me](https://skillicons.dev/icons?i=discord) ![https://www.figma.com/design/KUaO73XwRdfgVTiDhYMbrp/Seduh---Tugas-Besar?node-id=1-2&p=f&t=9SIDXhC96T4Tgaqu-0](https://skillicons.dev/icons?i=figma) ![https://mail.google.com/mail/u/0/#inbox](https://skillicons.dev/icons?i=gmail) ![https://www.linkedin.com/in/syam-suardi-a625412a9/](https://skillicons.dev/icons?i=linkedin) ![https://www.notion.so/d3b68aaa42f14805bb323bca3739ebbb](https://skillicons.dev/icons?i=notion) ![https://x.com/home](https://skillicons.dev/icons?i=twitter) ![https://www.instagram.com/szs_samm28/](https://skillicons.dev/icons?i=instagram)
+
+
 
