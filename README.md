@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! I'm Syamsuardi 👋
 
 <!--
 **Syamsuardi28/Syamsuardi28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning **Laravel** **Framework**
+- 😊😊😁😁
+
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWtidWhvNDY3M2o4andteXRoZWo3MjA0aTJlOWp2b2pyNXVqbWJ3NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUPGGDNsLvqsBOhuU0/giphy.gif)
