@@ -1,5 +1,7 @@
 ## Hello World! I'm Syamsuardi 👋🏻
 
+![](img/Kabar%20terbaru%20dari%20dunia%20gim%20video.jpg)
+
 <!--
 **Syamsuardi28/Syamsuardi28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
