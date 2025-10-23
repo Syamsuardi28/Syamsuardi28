@@ -1,4 +1,5 @@
-## Hello I'm Syamsuardi
+## Hello World! I'm Syamsuardi 👋🏻
+
 <!--
 **Syamsuardi28/Syamsuardi28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWtidWhvNDY3M2o4andteXRoZWo3MjA0aTJlOWp2b2pyNXVqbWJ3NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUPGGDNsLvqsBOhuU0/giphy.gif)
-
-
-![https://discord.com/channels/@me](https://skillicons.dev/icons?i=discord) ![https://www.figma.com/design/KUaO73XwRdfgVTiDhYMbrp/Seduh---Tugas-Besar?node-id=1-2&p=f&t=9SIDXhC96T4Tgaqu-0](https://skillicons.dev/icons?i=figma) ![https://mail.google.com/mail/u/0/#inbox](https://skillicons.dev/icons?i=gmail) ![https://www.linkedin.com/in/syam-suardi-a625412a9/](https://skillicons.dev/icons?i=linkedin) ![https://www.notion.so/d3b68aaa42f14805bb323bca3739ebbb](https://skillicons.dev/icons?i=notion) ![https://x.com/home](https://skillicons.dev/icons?i=twitter) ![https://www.instagram.com/szs_samm28/](https://skillicons.dev/icons?i=instagram)
-
-
-
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt5OGprenN5ajExMm13MzN3MHI4NnZ3dDdtOXhoNGMzNTQxMXp5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif)
