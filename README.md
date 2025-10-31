@@ -1,4 +1,12 @@
-# 👋 Hi, I'm Syam Suardi!
+<!-- Judul utama dengan efek mengetik -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Syam+Suardi!;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+</div>
+
+<!-- Garis pemisah animasi -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="animated line" />
+</div>
 
 <table>
   <tr>
@@ -6,7 +14,9 @@
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200" />
     </td>
     <td>
-      <h3>Welcome to my GitHub profile!</h3>
+      <h3>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0080&width=435&lines=Welcome+to+my+GitHub+Profile!;Backend+Web+Developer+in+Progress!;Let's+Build+Something+Great!+🚀" alt="Typing SVG" />
+      </h3>
       <p>
         I'm a passionate <b>Information Systems</b> student at 
         <b>Universitas Islam Negeri Alauddin Makassar</b>, currently diving deep into the world of 
@@ -17,16 +27,26 @@
   </tr>
 </table>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="animated line" />
+</div>
+
 ### 🌟 About Me
+
+<img src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" width="40">
 
 - 🎓 **Student**: Pursuing a degree in Information Systems at Universitas Islam Negeri Alauddin Makassar.
 - 💻 **Learning**: Focused on backend web development with **Node.js**, exploring APIs, databases, and server-side logic.
-- 🔍 **Seeking**: Excited to find a **Web Development Internship** to gain real-world experience and contribute to meaningful projects.
-- 🌍 **Interests**: Beyond coding, I enjoy exploring tech trends, open-source contributions, and connecting with like-minded developers.
+- 🔍 **Seeking**: Excited to find a **Web Development Internship** to gain real-world experience.
+- 🌍 **Interests**: Exploring tech trends, open-source projects, and connecting with developers.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%" alt="animated line" />
+</div>
 
 ### 🛠 Tech Stack
 
-I'm proficient in a variety of tools and technologies. Here's what I work with:
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
 <div align="center">
 
@@ -41,7 +61,13 @@ I'm proficient in a variety of tools and technologies. Here's what I work with:
 
 _Currently expanding my skills in JavaScript frameworks, RESTful APIs, and database management._
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%" alt="animated line" />
+</div>
+
 ### 📈 GitHub Stats
+
+<img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" width="40">
 
 <div align="center">
 
@@ -50,9 +76,13 @@ _Currently expanding my skills in JavaScript frameworks, RESTful APIs, and datab
 
 </div>
 
-_(Replace `your-github-username` with your actual GitHub username to display real stats.)_
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="animated line" />
+</div>
 
 ### 📫 Let's Connect!
+
+<img src="https://media.giphy.com/media/j5hPzO6PZ4rM8/giphy.gif" width="40">
 
 I'm always open to collaborations, discussions, or internship opportunities. Reach out to me:
 
@@ -60,6 +90,9 @@ I'm always open to collaborations, discussions, or internship opportunities. Rea
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syam-suardi-a625412a9/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syam79485@gmail.com)
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%" alt="animated line" />
+</div>
 
-⭐ **Fun Fact**: I believe in the power of code to solve real-world problems – let's build something amazing together! If you like my work, give it a star! 🌟
+⭐ **Fun Fact**:  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=I+believe+in+the+power+of+code!;Let's+build+something+amazing+together!;Give+my+repos+a+star+🌟" alt="Fun Fact" />
