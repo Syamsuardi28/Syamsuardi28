@@ -96,9 +96,11 @@ I'm always open to collaborations, discussions, or internship opportunities. Rea
 
 ### 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Syamsuardi28&theme=dracula" />
-</div>
+<p align="center">
+  <a href="https://github.com/Syamsuardi28">
+    <img src="https://github-profile-trophy.vercel.app/?username=Syamsuardi28&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" alt="GitHub Trophies" />
+  </a>
+</p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="animated line" />
