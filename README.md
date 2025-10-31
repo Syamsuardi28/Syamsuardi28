@@ -94,5 +94,15 @@ I'm always open to collaborations, discussions, or internship opportunities. Rea
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%" alt="animated line" />
 </div>
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Syamsuardi28&theme=dracula" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="animated line" />
+</div>
+
 ⭐ **Fun Fact**:  
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=I+believe+in+the+power+of+code!;Let's+build+something+amazing+together!;Give+my+repos+a+star+🌟" alt="Fun Fact" />
