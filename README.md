@@ -1,8 +1,21 @@
 # 👋 Hi, I'm Syam Suardi!
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="200" />
-
-Welcome to my GitHub profile! I'm a passionate **Information Systems** student at **Universitas Islam Negeri Alauddin Makassar**, currently diving deep into the world of backend web development. I love building efficient, scalable applications and am always eager to learn new technologies. 🚀
+<table>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200" />
+    </td>
+    <td>
+      <h3>Welcome to my GitHub profile!</h3>
+      <p>
+        I'm a passionate <b>Information Systems</b> student at 
+        <b>Universitas Islam Negeri Alauddin Makassar</b>, currently diving deep into the world of 
+        <b>backend web development</b>.  
+        I love building efficient, scalable applications and am always eager to learn new technologies. 🚀
+      </p>
+    </td>
+  </tr>
+</table>
 
 ### 🌟 About Me
 
@@ -32,8 +45,8 @@ _Currently expanding my skills in JavaScript frameworks, RESTful APIs, and datab
 
 <div align="center">
 
-![Syam's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Syam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syamsuardi28&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Syamsuardi28&layout=compact&theme=radical)
 
 </div>
 
