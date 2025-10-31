@@ -1,6 +1,6 @@
 <!-- Judul utama dengan efek mengetik -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Syam+Suardi!;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Syamsuardi!;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 <!-- Garis pemisah animasi -->
