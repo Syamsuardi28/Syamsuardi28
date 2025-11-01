@@ -1,110 +1,134 @@
-<!-- Judul utama dengan efek mengetik -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Syamsuardi!;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+  
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hi, I'm Syamsuardi!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Web+Developer;Information+Systems+Student;Building+Scalable+Solutions+%F0%9F%9A%80;Open+to+Internship+Opportunities!" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </div>
 
-<!-- Garis pemisah animasi -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="animated line" />
-</div>
+## 🚀 About Me
 
-<table>
-  <tr>
-    <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200" />
-    </td>
-    <td>
-      <h3>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0080&width=435&lines=Welcome+to+my+GitHub+Profile!;Backend+Web+Developer+in+Progress!;Let's+Build+Something+Great!+🚀" alt="Typing SVG" />
-      </h3>
-      <p>
-        I'm a passionate <b>Information Systems</b> student at 
-        <b>Universitas Islam Negeri Alauddin Makassar</b>, currently diving deep into the world of 
-        <b>backend web development</b>.  
-        I love building efficient, scalable applications and am always eager to learn new technologies. 🚀
-      </p>
-    </td>
-  </tr>
-</table>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="animated line" />
-</div>
+```javascript
+const Syamsuardi = {
+  education: "Information Systems Student",
+  university: "UIN Alauddin Makassar",
+  role: "Backend Developer in Progress",
+  currentFocus: ["Node.js", "RESTful APIs", "Database Design"],
+  lookingFor: "Web Development Internship",
+  funFact: "Debugging is like being a detective 🔍",
+  lifePhilosophy: "Code is poetry written in logic",
+};
+```
 
-### 🌟 About Me
+<br/>
 
-<img src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" width="40">
+- 🎓 Studying **Information Systems** at **Universitas Islam Negeri Alauddin Makassar**
+- 💻 Passionate about **Backend Web Development** and building robust APIs
+- 🌱 Currently mastering **Node.js**, **Laravel**, and **Database Management**
+- 🔭 Working on exciting projects to enhance my portfolio
+- 🎯 Goal: Contribute to impactful open-source projects
+- 📫 Reach me at: **syam79485@gmail.com**
 
-- 🎓 **Student**: Pursuing a degree in Information Systems at Universitas Islam Negeri Alauddin Makassar.
-- 💻 **Learning**: Focused on backend web development with **Node.js**, exploring APIs, databases, and server-side logic.
-- 🔍 **Seeking**: Excited to find a **Web Development Internship** to gain real-world experience.
-- 🌍 **Interests**: Exploring tech trends, open-source projects, and connecting with developers.
+<br clear="both"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%" alt="animated line" />
-</div>
 
-### 🛠 Tech Stack
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-
-<div align="center">
+### 💻 Languages & Frameworks
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🗄️ Databases
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🛠️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
-_Currently expanding my skills in JavaScript frameworks, RESTful APIs, and database management._
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%" alt="animated line" />
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Syamsuardi28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Syamsuardi28&theme=tokyonight&hide_border=true" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syamsuardi28&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
 </div>
 
-### 📈 GitHub Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" width="40">
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-![Syam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syamsuardi28&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Syamsuardi28&layout=compact&theme=radical)
+<img src="https://github-profile-trophy.vercel.app/?username=Syamsuardi28&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="animated line" />
+
+[![Syam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Syamsuardi28&theme=tokyo-night&hide_border=true)](https://github.com/Syamsuardi28)
+
 </div>
 
-### 📫 Let's Connect!
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://media.giphy.com/media/j5hPzO6PZ4rM8/giphy.gif" width="40">
+## 🤝 Connect With Me
 
-I'm always open to collaborations, discussions, or internship opportunities. Reach out to me:
+<div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/szs_samm28/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syam-suardi-a625412a9/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syam79485@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Syamsuardi28)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%" alt="animated line" />
 </div>
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/Syamsuardi28">
-    <img src="https://github-profile-trophy.vercel.app/?username=Syamsuardi28&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" alt="GitHub Trophies" />
-  </a>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="animated line" />
+
+### 💡 Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+<br/>
+
+### ✨ Show Some Love
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=If+you+like+my+work%2C+give+it+a+⭐;Let's+collaborate+and+build+together!;Thanks+for+visiting+my+profile+%F0%9F%98%8A" alt="Closing Message" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Syamsuardi28&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
 </div>
 
-⭐ **Fun Fact**:  
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=I+believe+in+the+power+of+code!;Let's+build+something+amazing+together!;Give+my+repos+a+star+🌟" alt="Fun Fact" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
