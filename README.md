@@ -20,7 +20,6 @@ const Syamsuardi = {
   currentFocus: ["Node.js", "RESTful APIs", "Database Design"],
   lookingFor: "Web Development Internship",
   funFact: "Debugging is like being a detective 🔍",
-  lifePhilosophy: "Code is poetry written in logic",
 };
 ```
 
@@ -46,7 +45,6 @@ const Syamsuardi = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
@@ -54,7 +52,6 @@ const Syamsuardi = {
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 
@@ -71,10 +68,7 @@ const Syamsuardi = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Syamsuardi28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Syamsuardi28&theme=tokyonight&hide_border=true" />
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syamsuardi28&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -85,16 +79,6 @@ const Syamsuardi = {
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Syamsuardi28&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="GitHub Trophies" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Syam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Syamsuardi28&theme=tokyo-night&hide_border=true)](https://github.com/Syamsuardi28)
 
 </div>
 
