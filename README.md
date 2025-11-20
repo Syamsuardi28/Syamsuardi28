@@ -157,8 +157,6 @@ me.getInfo();
 
 </p>
 
-### 📧 Email: syam79485@gmail.com
-
 ### 📍 Location: Makassar, South Sulawesi, Indonesia
 
 </div>
