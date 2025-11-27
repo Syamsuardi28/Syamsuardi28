@@ -7,22 +7,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer+%F0%9F%9A%80;API+Architecture+Enthusiast+%F0%9F%94%A5;Always+Learning+New+Tech+%F0%9F%93%9A" alt="Typing SVG" /></a>
 
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://www.instagram.com/szs_samm28/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/syam-suardi-a625412a9/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:syam79485@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/Syamsuardi28">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
 </div>
 
 ---
@@ -84,6 +68,9 @@ class Developer {
 ## 📫 Connect With Me
 
 <div align="center">
+
+<!-- Handshake GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" alt="Connect"/>
 
 <p>
 <a href="https://www.instagram.com/szs_samm28/">
