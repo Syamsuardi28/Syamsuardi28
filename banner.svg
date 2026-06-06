@@ -1,0 +1,183 @@
+<svg width="100%" viewBox="0 0 680 260" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Syamsuardi GitHub Profile Banner</title>
+<defs>
+  <style>
+    @keyframes float1 { 0%,100%{transform:translateY(0px) rotate(0deg)} 50%{transform:translateY(-10px) rotate(5deg)} }
+    @keyframes float2 { 0%,100%{transform:translateY(0px) rotate(0deg)} 50%{transform:translateY(-14px) rotate(-4deg)} }
+    @keyframes float3 { 0%,100%{transform:translateY(0px) rotate(0deg)} 50%{transform:translateY(-8px) rotate(6deg)} }
+    @keyframes float4 { 0%,100%{transform:translateY(0px) rotate(0deg)} 50%{transform:translateY(-12px) rotate(-3deg)} }
+    @keyframes float5 { 0%,100%{transform:translateY(0px) rotate(0deg)} 50%{transform:translateY(-10px) rotate(7deg)} }
+    @keyframes float6 { 0%,100%{transform:translateY(0px) rotate(0deg)} 50%{transform:translateY(-16px) rotate(-5deg)} }
+    @keyframes wave { 0%,100%{transform:rotate(0deg)} 25%{transform:rotate(-15deg)} 75%{transform:rotate(15deg)} }
+    @keyframes fadeIn { from{opacity:0;transform:translateY(8px)} to{opacity:1;transform:translateY(0)} }
+    .circuit { stroke: #1a2a4a; stroke-width: 0.8; fill: none; opacity: 0.5; }
+    .i1 { animation: float1 3.2s ease-in-out infinite; transform-origin: center; }
+    .i2 { animation: float2 2.8s ease-in-out infinite 0.3s; transform-origin: center; }
+    .i3 { animation: float3 3.5s ease-in-out infinite 0.6s; transform-origin: center; }
+    .i4 { animation: float4 2.6s ease-in-out infinite 0.9s; transform-origin: center; }
+    .i5 { animation: float5 3.1s ease-in-out infinite 0.2s; transform-origin: center; }
+    .i6 { animation: float6 2.9s ease-in-out infinite 0.5s; transform-origin: center; }
+    .i7 { animation: float1 3.3s ease-in-out infinite 0.7s; transform-origin: center; }
+    .i8 { animation: float2 2.7s ease-in-out infinite 1.0s; transform-origin: center; }
+    .i9 { animation: float3 3.0s ease-in-out infinite 0.4s; transform-origin: center; }
+    .i10 { animation: float4 3.4s ease-in-out infinite 0.8s; transform-origin: center; }
+    .i11 { animation: float5 2.5s ease-in-out infinite 1.1s; transform-origin: center; }
+    .i12 { animation: float6 3.6s ease-in-out infinite 0.1s; transform-origin: center; }
+    .i13 { animation: float1 2.9s ease-in-out infinite 1.3s; transform-origin: center; }
+    .i14 { animation: float2 3.2s ease-in-out infinite 0.35s; transform-origin: center; }
+    .i15 { animation: float3 2.7s ease-in-out infinite 0.85s; transform-origin: center; }
+    .i16 { animation: float4 3.0s ease-in-out infinite 1.2s; transform-origin: center; }
+    .g-text { animation: fadeIn 1s ease-out 0.2s both; }
+    .wave { animation: wave 1.5s ease-in-out infinite; transform-origin: 70% 80%; display:inline-block; }
+  </style>
+  <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" style="stop-color:#060d1a"/>
+    <stop offset="50%" style="stop-color:#0a1628"/>
+    <stop offset="100%" style="stop-color:#060d1a"/>
+  </linearGradient>
+</defs>
+
+<rect width="680" height="260" fill="url(#bgGrad)" rx="12"/>
+
+<!-- Circuit lines -->
+<g class="circuit">
+  <line x1="0" y1="40" x2="80" y2="40"/><circle cx="80" cy="40" r="2" fill="#1a3a6a"/>
+  <line x1="80" y1="40" x2="80" y2="80"/><circle cx="80" cy="80" r="2" fill="#1a3a6a"/>
+  <line x1="80" y1="80" x2="150" y2="80"/>
+  <line x1="600" y1="30" x2="680" y2="30"/>
+  <line x1="600" y1="30" x2="600" y2="90"/>
+  <line x1="560" y1="90" x2="600" y2="90"/>
+  <line x1="0" y1="200" x2="60" y2="200"/><circle cx="60" cy="200" r="2" fill="#1a3a6a"/>
+  <line x1="60" y1="200" x2="60" y2="240"/><line x1="60" y1="240" x2="140" y2="240"/>
+  <line x1="540" y1="210" x2="620" y2="210"/><circle cx="540" cy="210" r="2" fill="#1a3a6a"/>
+  <line x1="540" y1="210" x2="540" y2="250"/><line x1="540" y1="250" x2="680" y2="250"/>
+</g>
+
+<!-- ROW 1 -->
+<!-- JS -->
+<g class="i1" transform="translate(28,12)">
+  <rect width="40" height="40" rx="6" fill="#f7df1e"/>
+  <text x="26" y="32" font-family="Arial Black,sans-serif" font-size="16" font-weight="900" fill="#000" text-anchor="middle">JS</text>
+</g>
+<!-- PHP -->
+<g class="i2" transform="translate(88,8)">
+  <rect width="48" height="28" rx="14" fill="#777bb3"/>
+  <text x="24" y="19" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">php</text>
+</g>
+<!-- Python -->
+<g class="i3" transform="translate(158,10)">
+  <rect width="40" height="40" rx="8" fill="#306998"/>
+  <rect x="4" y="20" width="32" height="16" rx="4" fill="#ffd343"/>
+  <circle cx="14" cy="14" r="4" fill="#ffd343"/>
+  <circle cx="26" cy="26" r="4" fill="#306998"/>
+  <text x="20" y="36" font-family="Arial,sans-serif" font-size="9" fill="#306998" text-anchor="middle" font-weight="700">Py</text>
+</g>
+<!-- Node.js -->
+<g class="i4" transform="translate(220,6)">
+  <polygon points="20,0 40,11 40,33 20,44 0,33 0,11" fill="#68a063"/>
+  <text x="20" y="28" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="#fff" text-anchor="middle">Node</text>
+</g>
+<!-- Laravel -->
+<g class="i5" transform="translate(278,10)">
+  <rect width="42" height="42" rx="8" fill="#FF2D20"/>
+  <text x="21" y="30" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#fff" text-anchor="middle">L</text>
+</g>
+<!-- MySQL -->
+<g class="i6" transform="translate(338,8)">
+  <rect width="44" height="28" rx="6" fill="#00618a"/>
+  <text x="22" y="19" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="#fff" text-anchor="middle">MySQL</text>
+</g>
+<!-- PostgreSQL -->
+<g class="i7" transform="translate(400,6)">
+  <rect width="42" height="42" rx="8" fill="#336791"/>
+  <text x="21" y="26" font-family="Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">PG</text>
+  <text x="21" y="37" font-family="Arial,sans-serif" font-size="7" fill="#adc8e0" text-anchor="middle">SQL</text>
+</g>
+<!-- React -->
+<g class="i8" transform="translate(462,10)">
+  <circle cx="20" cy="20" r="20" fill="#20232a"/>
+  <circle cx="20" cy="20" r="4" fill="#61dafb"/>
+  <ellipse cx="20" cy="20" rx="16" ry="6" fill="none" stroke="#61dafb" stroke-width="1.5"/>
+  <ellipse cx="20" cy="20" rx="16" ry="6" fill="none" stroke="#61dafb" stroke-width="1.5" transform="rotate(60 20 20)"/>
+  <ellipse cx="20" cy="20" rx="16" ry="6" fill="none" stroke="#61dafb" stroke-width="1.5" transform="rotate(120 20 20)"/>
+</g>
+<!-- Git -->
+<g class="i9" transform="translate(522,8)">
+  <rect width="40" height="40" rx="8" fill="#F05032"/>
+  <text x="20" y="26" font-family="Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">git</text>
+</g>
+<!-- Docker -->
+<g class="i10" transform="translate(582,10)">
+  <rect width="42" height="42" rx="8" fill="#0db7ed"/>
+  <rect x="5" y="14" width="8" height="6" rx="1" fill="#fff"/>
+  <rect x="15" y="14" width="8" height="6" rx="1" fill="#fff"/>
+  <rect x="25" y="14" width="8" height="6" rx="1" fill="#fff"/>
+  <rect x="15" y="22" width="8" height="6" rx="1" fill="#fff"/>
+  <rect x="25" y="22" width="8" height="6" rx="1" fill="#fff"/>
+  <rect x="5" y="22" width="8" height="6" rx="1" fill="#fff"/>
+</g>
+
+<!-- ROW 2 -->
+<!-- Express -->
+<g class="i11" transform="translate(28,70)">
+  <rect width="50" height="26" rx="6" fill="#303030"/>
+  <text x="25" y="18" font-family="Arial,sans-serif" font-size="9" font-weight="700" fill="#fff" text-anchor="middle">Express</text>
+</g>
+<!-- TypeScript -->
+<g class="i12" transform="translate(92,66)">
+  <rect width="40" height="40" rx="6" fill="#007ACC"/>
+  <text x="20" y="28" font-family="Arial Black,sans-serif" font-size="16" font-weight="900" fill="#fff" text-anchor="middle">TS</text>
+</g>
+<!-- Redis -->
+<g class="i13" transform="translate(150,68)">
+  <rect width="44" height="28" rx="6" fill="#DC382D"/>
+  <text x="22" y="19" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="#fff" text-anchor="middle">Redis</text>
+</g>
+<!-- Postman -->
+<g class="i14" transform="translate(210,66)">
+  <circle cx="20" cy="20" r="20" fill="#FF6C37"/>
+  <text x="20" y="25" font-family="sans-serif" font-size="18" fill="#fff" text-anchor="middle">✉</text>
+</g>
+<!-- Linux -->
+<g class="i15" transform="translate(268,68)">
+  <rect width="42" height="42" rx="8" fill="#FCC624"/>
+  <text x="21" y="28" font-family="sans-serif" font-size="20" text-anchor="middle">🐧</text>
+</g>
+<!-- VSCode -->
+<g class="i16" transform="translate(328,66)">
+  <rect width="42" height="42" rx="8" fill="#0078d4"/>
+  <text x="21" y="31" font-family="Arial,sans-serif" font-size="20" fill="#fff" text-anchor="middle">&lt;/&gt;</text>
+</g>
+<!-- GitHub -->
+<g class="i1" transform="translate(388,68)">
+  <circle cx="21" cy="21" r="21" fill="#fff"/>
+  <text x="21" y="28" font-family="Arial,sans-serif" font-size="22" fill="#24292e" text-anchor="middle">⑂</text>
+</g>
+<!-- REST API -->
+<g class="i2" transform="translate(446,70)">
+  <rect width="50" height="26" rx="13" fill="none" stroke="#00d9ff" stroke-width="1" opacity="0.7"/>
+  <text x="25" y="18" font-family="Arial,sans-serif" font-size="9" font-weight="700" fill="#00d9ff" text-anchor="middle">REST API</text>
+</g>
+<!-- MongoDB -->
+<g class="i3" transform="translate(510,68)">
+  <rect width="48" height="28" rx="6" fill="#4DB33D"/>
+  <text x="24" y="19" font-family="Arial,sans-serif" font-size="9" font-weight="700" fill="#fff" text-anchor="middle">MongoDB</text>
+</g>
+<!-- Nginx -->
+<g class="i4" transform="translate(572,68)">
+  <rect width="44" height="28" rx="6" fill="#009900"/>
+  <text x="22" y="19" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="#fff" text-anchor="middle">nginx</text>
+</g>
+
+<!-- Greeting -->
+<g class="g-text">
+  <text x="330" y="162" font-family="'Segoe UI',sans-serif" font-size="22" font-weight="600" fill="#e6f1fb" text-anchor="middle">Hi there, I'm Syamsuardi</text>
+  <text x="470" y="163" font-family="sans-serif" font-size="20" text-anchor="middle" class="wave">👋</text>
+  <text x="340" y="188" font-family="'Courier New',monospace" font-size="13" fill="#00d9ff" text-anchor="middle" opacity="0.85">Backend Developer · Makassar, Indonesia 🇮🇩</text>
+</g>
+
+<!-- Glow dots -->
+<circle cx="30" cy="180" r="1.5" fill="#00d9ff" opacity="0.4"/>
+<circle cx="650" cy="170" r="1.5" fill="#00d9ff" opacity="0.4"/>
+<circle cx="340" cy="230" r="1.5" fill="#00d9ff" opacity="0.3"/>
+</svg>
