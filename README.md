@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./banner.svg" width="100%" alt="Syamsuardi"/>
+<img src="./banner_elegant.svg" width="100%" alt="Syamsuardi"/>
 </div>
 
 <br/>
