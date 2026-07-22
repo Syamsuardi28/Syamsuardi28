@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./banner(1).svg" width="100%" alt="Syamsuardi Banner"/>
+<img src="./banner.svg" width="100%" alt="Syamsuardi Banner"/>
 </div>
 
 <br>
@@ -28,6 +28,26 @@
   "status"   : "Open to collaborate ✦"
 }
 ```
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Syamsuardi28&show_icons=true&theme=transparent&title_color=c8a96e&icon_color=c8a96e&text_color=7b9cbd&bg_color=0d1117&hide_border=true&border_radius=8" height="160">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syamsuardi28&layout=compact&theme=transparent&title_color=c8a96e&text_color=7b9cbd&bg_color=0d1117&hide_border=true&border_radius=8" height="160">
+
+</div>
+
+## 🏆 Trophy
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Syamsuardi28&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7&title_color=c8a96e" width="100%">
+
+</div>
 
 ---
 
@@ -65,6 +85,28 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Syamsuardi28/Syamsuardi28/snake/snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Syamsuardi28/Syamsuardi28/snake/snake.svg" width="100%">
+</picture>
+
+---
+
+## 🚀 Projects
+
+<div align="center">
+
+| Status | Project | Description |
+|--------|---------|-------------|
+| 🟢 | **Project 1** | *Tambahkan project unggulanmu di sini* |
+| 🟡 | **Project 2** | *Tambahkan project unggulanmu di sini* |
+
+</div>
+
+---
+
 ## 📬 Contact
 
 <div align="center">
@@ -88,5 +130,5 @@
 ---
 
 <div align="center">
-<code>// Makassar · South Sulawesi · Indonesia · 2025</code>
+<code>// Makassar · South Sulawesi · Indonesia · 2026</code>
 </div>
