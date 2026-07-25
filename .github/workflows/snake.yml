@@ -8,10 +8,14 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+
     steps:
       - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
